@@ -1,0 +1,36 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: url(Wall.jpg) no-repeat center top / cover;
+    margin: 0;
+    padding: 0;
+    color: darkcyan;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+h1 {
+    color: forestgreen;
+    margin-top: 500px;
+    font-size: 45px;
+
+}
+
+li {
+    list-style-type: none;
+}
+
+img {
+    margin-top: 20px;
+}
+
+ul {
+    padding-left: 500px;
+    margin-top: 50px;
+}
+
+.text {
+    border: solid 2px sandybrown;
+    display: table-cell;
+    padding: 10px;
+}
