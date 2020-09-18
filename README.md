@@ -1,1 +1,1 @@
-https://HolyPawer.github.io/rsschool-cv/hgit 
+https://HolyPawer.github.io/rsschool-cv/
